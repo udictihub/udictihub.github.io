@@ -28,7 +28,7 @@ twitter_username: udicti
 github_username: udictihub
 
 # Build settings
-theme: Udicti is a student-led Innovation unit at the College of Information and Communication Technologies present in the University Of Dar es salaam that focuses on building a tech-preneurial mindset , support students to build tech products and commercialize them. It also works to build tech-skills to students that will match them with the Industrial Standards with a clear aim of ensuring they fit and adapt to the competitive high skilled global tech-job market inreturn secure jobs easily and faster.
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
