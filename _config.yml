@@ -20,8 +20,7 @@
 
 title: UDICTI COMMUNITY EVENTS
 email: udictii@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Udicti is a student-led Innovation unit at the College of Information and Communication Technologies present in the University Of Dar es salaam that focuses on building a tech-preneurial mindset , support students to build tech products and commercialize them. It also works to build tech-skills to students that will match them with the Industrial Standards with a clear aim of ensuring they fit and adapt to the competitive high skilled global tech-job market inreturn secure jobs easily and faster.
+description: Udicti is a student-led innovation unit at the University of Dar es Salaam, focused on fostering a tech-preneurial mindset and supporting students in building and commercializing tech products. Our mission is to equip students with industry-aligned tech skills, enabling them to thrive in the global tech job market and secure employment quickly. Udicti empowers students to bridge the gap between academia and industry, ensuring a smooth transition into high-demand tech careers.
 baseurl: /udictihub.github.io/ # the subpath of your site, e.g. /blog
 url: https://udictihub.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: udicti

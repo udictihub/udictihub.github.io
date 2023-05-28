@@ -1,29 +1,55 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "WELCOME TO UDICTI COMMUNITY"
 date:   2023-05-28 17:32:08 +0300
-categories: jekyll update
+categories: bio
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+# UDICTI COMMUNITY 👨🏾‍💻👩🏾‍💻📚🎒🥳
 
-`YEAR-MONTH-DAY-title.MARKUP`
+## WHO ARE WE ?
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+Udicti is a student-led  Innovation unit at the College of Information and Communication Technologies present in the University Of Dar es salaam that focuses on building a tech-preneurial mindset , support students to build tech products and commercialize them. It also works to  build tech-skills to students that will match them with the Industrial Standards with a clear aim of ensuring  they fit and adapt to the competitive high skilled global tech-job market inreturn secure jobs easily and faster.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## OUR PROGRAMS
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Startup Program
+
+> This program deals with training students to have an entrepeneurial mindset and assisting them to build tech-business ventures from the ground with support from the University Of Dar es salaam , Community Members and our Corporate Partners.
+
+### Upskilling Program
+
+> This program with deals with impacting students with tech skills that are uptodate and relevant in the current tech-industrial world , have a chance to interact and build relationships with industrial experts , experience different corporate work cultures and industrial standards concerning the tech and digital world.
+
+
+## How to Join ?
+
+- We usually have info sessions in the first and second month of every new academic year where we create a mass awareness on our community , programs, its' impact, how can you benefit and why you should be part of it.
+- The Info-sessions are widely announced through different communication channels.
+- During and after the Info-sessions we issue application forms that students will apply to join our community and take part in our programs.
+
+## What to expect ?
+
+- [x] Chance to learn , unlearn and relearn different knowledge attributes from tech-skills , entrepreneurial mindsets to building and be part of a community.  
+- [x] Networking with industrial experts , entrepreneurs i.e co-founders , Venture Capitalists etc.  
+- [x] Practical hand experience on learning tech-skills and and build tech-businesses.  
+- [x] Fun experience , meet new people , nurture new bonds.  
+
+## Communication
+
+### Social Media
+
+- Instagram [@udicti_hub](https://www.instagram.com/udicti_hub)
+- Twitter [@udicti](https://twitter.com/udicti)
+- LinkedIn [UDICTI](https://www.linkedin.com/in/udsm-ict-incubator-udicti-3471786b/)
+- Discord [You are invited !](https://discord.gg/hJr82bkG)
+
+### Email
+
+**Organization** <udictii@gmail.com>
+
+**Community Leaders**
+- @genie360s | <alexgmkwizu@gmail.com>
+- @jackkweyunga | <jacksonkweyunga@gmail.com>
